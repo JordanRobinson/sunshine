@@ -1,9 +1,11 @@
 package uk.co.jordanrobinson.sunshine;
 
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.preference.PreferenceManager;
 import android.support.v4.app.Fragment;
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -46,15 +48,32 @@ public class ForecastFragment extends Fragment {
     }
 
     @Override
+    public void onStart() {
+        super.onStart();
+        updateWeater();
+    }
+
+
+    @Override
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
         inflater.inflate(R.menu.forecastfragment, menu);
+    }
+
+    private void updateWeater() {
+        FetchWeatherTask weatherTask = new FetchWeatherTask();
+        SharedPreferences prefs =
+                PreferenceManager.getDefaultSharedPreferences(getActivity());
+        String location = prefs.getString(
+                getString(R.string.pref_location_key),
+                getString(R.string.pref_location_default));
+
+        weatherTask.execute(location);
     }
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
         if (id == R.id.action_refresh) {
-            new FetchWeatherTask().execute("94043");
             return true;
         }
         return super.onOptionsItemSelected(item);
@@ -65,10 +84,6 @@ public class ForecastFragment extends Fragment {
                              Bundle savedInstanceState) {
 
         List<String> exampleData = new ArrayList<>();
-
-        for (int i = 0; i < 30; i++) {
-            exampleData.add("Today - Sunny - 88/63");
-        }
 
         forecastAdapter = new ArrayAdapter<>(getActivity(),
                 R.layout.list_item_forecast,
