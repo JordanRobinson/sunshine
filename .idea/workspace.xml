@@ -113,13 +113,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WeatherProvider.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="WeatherProvider.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/uk/co/jordanrobinson/sunshine/data/WeatherProvider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.51919866" vertical-offset="2633" max-vertical-offset="4944">
-              <caret line="191" column="18" selection-start-line="191" selection-start-column="18" selection-end-line="191" selection-end-column="18" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="3328" max-vertical-offset="5072">
+              <caret line="238" column="21" selection-start-line="238" selection-start-column="21" selection-end-line="238" selection-end-column="21" />
               <folding>
-                <element signature="e#0#12501#0" expanded="true" />
+                <element signature="e#0#12902#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -149,11 +149,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestProvider.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="TestProvider.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/uk/co/jordanrobinson/sunshine/data/TestProvider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="3072" max-vertical-offset="8208">
-              <caret line="228" column="0" selection-start-line="228" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.27879798" vertical-offset="6137" max-vertical-offset="8240">
+              <caret line="410" column="0" selection-start-line="410" selection-start-column="0" selection-end-line="431" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -956,8 +956,8 @@
         <option value="$PROJECT_DIR$/app/src/androidTest/java/uk/co/jordanrobinson/sunshine/data/TestUriMatcher.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/uk/co/jordanrobinson/sunshine/data/WeatherContract.java" />
-        <option value="$PROJECT_DIR$/app/src/androidTest/java/uk/co/jordanrobinson/sunshine/data/TestProvider.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/uk/co/jordanrobinson/sunshine/data/WeatherProvider.java" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/uk/co/jordanrobinson/sunshine/data/TestProvider.java" />
       </list>
     </option>
   </component>
@@ -1140,7 +1140,7 @@
     <property name="LayoutCode.rearrangeEntriesJava" value="true" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="testpro&#9;FILE&#9;file://D:/0/0/Dropbox/work/sunshine/app/src/androidTest/java/uk/co/jordanrobinson/sunshine/data/TestProvider.java&#10;weatherpro&#9;FILE&#9;file://D:/0/0/Dropbox/work/sunshine/app/src/main/java/uk/co/jordanrobinson/sunshine/data/WeatherProvider.java&#10;mani&#9;FILE&#9;file://D:/0/0/Dropbox/work/sunshine/app/src/main/AndroidManifest.xml&#10;testurimat&#9;PSI&#9;JAVA://uk.co.jordanrobinson.sunshine.data.TestUriMatcher&#10;weatherprov&#9;FILE&#9;file://D:/0/0/Dropbox/work/sunshine/app/src/main/java/uk/co/jordanrobinson/sunshine/data/WeatherProvider.java&#10;eatherentry&#9;PSI&#9;JAVA://uk.co.jordanrobinson.sunshine.data.WeatherContract.WeatherEntry&#10;testweathercont&#9;PSI&#9;JAVA://uk.co.jordanrobinson.sunshine.data.TestWeatherContract&#10;doinback&#9;PSI&#9;JAVA://uk.co.jordanrobinson.sunshine.ForecastFragment.FetchWeatherTask#doInBackground&#10;detailact&#9;FILE&#9;file://D:/0/0/Dropbox/work/sunshine/app/src/main/java/uk/co/jordanrobinson/sunshine/DetailActivity.java&#10;strings&#9;FILE&#9;file://D:/0/0/Dropbox/work/sunshine/app/src/main/res/values/strings.xml&#10;detail&#9;FILE&#9;file://D:/0/0/Dropbox/work/sunshine/app/src/main/java/uk/co/jordanrobinson/sunshine/DetailActivity.java&#10;mainac&#9;FILE&#9;file://D:/0/0/Dropbox/work/sunshine/app/src/main/java/uk/co/jordanrobinson/sunshine/MainActivity.java&#10;string&#9;FILE&#9;file://D:/0/0/Dropbox/work/sunshine/app/src/main/res/values/strings.xml&#10;str&#9;FILE&#9;file://D:/0/0/Dropbox/work/sunshine/app/src/main/res/values/strings.xml&#10;settings&#9;FILE&#9;file://D:/0/0/Dropbox/work/sunshine/app/src/main/java/uk/co/jordanrobinson/sunshine/SettingsActivity.java&#10;pref&#9;FILE&#9;file://D:/0/0/Dropbox/work/sunshine/app/src/main/res/xml/pref_general.xml&#10;foreca&#9;FILE&#9;file://C:/workspace/sunshine/app/src/main/java/uk/co/jordanrobinson/sunshine/ForecastFragment.java&#10;sett&#9;FILE&#9;file://C:/workspace/sunshine/app/src/main/java/uk/co/jordanrobinson/sunshine/SettingsActivity.java&#10;mainact&#9;FILE&#9;file://C:/workspace/sunshine/app/src/main/java/uk/co/jordanrobinson/sunshine/MainActivity.java&#10;manif&#9;FILE&#9;file://C:/workspace/sunshine/app/src/main/AndroidManifest.xml&#10;hello_world&#9;PSI&#9;JAVA://uk.co.jordanrobinson.sunshine.R.string#hello_world" />
+    <property name="SearchEverywhereHistoryKey" value="testpro&#9;FILE&#9;file://D:/0/0/Dropbox/work/sunshine/app/src/androidTest/java/uk/co/jordanrobinson/sunshine/data/TestProvider.java&#10;we&#9;FILE&#9;file://D:/0/0/Dropbox/work/sunshine/app/src/main/java/uk/co/jordanrobinson/sunshine/data/WeatherProvider.java&#10;weatherpro&#9;FILE&#9;file://D:/0/0/Dropbox/work/sunshine/app/src/main/java/uk/co/jordanrobinson/sunshine/data/WeatherProvider.java&#10;mani&#9;FILE&#9;file://D:/0/0/Dropbox/work/sunshine/app/src/main/AndroidManifest.xml&#10;testurimat&#9;PSI&#9;JAVA://uk.co.jordanrobinson.sunshine.data.TestUriMatcher&#10;weatherprov&#9;FILE&#9;file://D:/0/0/Dropbox/work/sunshine/app/src/main/java/uk/co/jordanrobinson/sunshine/data/WeatherProvider.java&#10;eatherentry&#9;PSI&#9;JAVA://uk.co.jordanrobinson.sunshine.data.WeatherContract.WeatherEntry&#10;testweathercont&#9;PSI&#9;JAVA://uk.co.jordanrobinson.sunshine.data.TestWeatherContract&#10;doinback&#9;PSI&#9;JAVA://uk.co.jordanrobinson.sunshine.ForecastFragment.FetchWeatherTask#doInBackground&#10;detailact&#9;FILE&#9;file://D:/0/0/Dropbox/work/sunshine/app/src/main/java/uk/co/jordanrobinson/sunshine/DetailActivity.java&#10;strings&#9;FILE&#9;file://D:/0/0/Dropbox/work/sunshine/app/src/main/res/values/strings.xml&#10;detail&#9;FILE&#9;file://D:/0/0/Dropbox/work/sunshine/app/src/main/java/uk/co/jordanrobinson/sunshine/DetailActivity.java&#10;mainac&#9;FILE&#9;file://D:/0/0/Dropbox/work/sunshine/app/src/main/java/uk/co/jordanrobinson/sunshine/MainActivity.java&#10;string&#9;FILE&#9;file://D:/0/0/Dropbox/work/sunshine/app/src/main/res/values/strings.xml&#10;str&#9;FILE&#9;file://D:/0/0/Dropbox/work/sunshine/app/src/main/res/values/strings.xml&#10;settings&#9;FILE&#9;file://D:/0/0/Dropbox/work/sunshine/app/src/main/java/uk/co/jordanrobinson/sunshine/SettingsActivity.java&#10;pref&#9;FILE&#9;file://D:/0/0/Dropbox/work/sunshine/app/src/main/res/xml/pref_general.xml&#10;foreca&#9;FILE&#9;file://C:/workspace/sunshine/app/src/main/java/uk/co/jordanrobinson/sunshine/ForecastFragment.java&#10;sett&#9;FILE&#9;file://C:/workspace/sunshine/app/src/main/java/uk/co/jordanrobinson/sunshine/SettingsActivity.java&#10;mainact&#9;FILE&#9;file://C:/workspace/sunshine/app/src/main/java/uk/co/jordanrobinson/sunshine/MainActivity.java&#10;manif&#9;FILE&#9;file://C:/workspace/sunshine/app/src/main/AndroidManifest.xml&#10;hello_world&#9;PSI&#9;JAVA://uk.co.jordanrobinson.sunshine.R.string#hello_world" />
     <property name="options.lastSelected" value="preferences.keymap" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -1949,22 +1949,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/uk/co/jordanrobinson/sunshine/data/TestProvider.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/uk/co/jordanrobinson/sunshine/data/WeatherProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3072" max-vertical-offset="8208">
-          <caret line="228" column="0" selection-start-line="228" selection-start-column="0" selection-end-line="228" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="3328" max-vertical-offset="5072">
+          <caret line="238" column="21" selection-start-line="238" selection-start-column="21" selection-end-line="238" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#12902#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/uk/co/jordanrobinson/sunshine/data/WeatherProvider.java">
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/uk/co/jordanrobinson/sunshine/data/TestProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51919866" vertical-offset="2633" max-vertical-offset="4944">
-          <caret line="191" column="18" selection-start-line="191" selection-start-column="18" selection-end-line="191" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.27879798" vertical-offset="6137" max-vertical-offset="8240">
+          <caret line="410" column="0" selection-start-line="410" selection-start-column="0" selection-end-line="431" selection-end-column="7" />
           <folding>
-            <element signature="e#0#12501#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
