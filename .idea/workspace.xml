@@ -198,8 +198,8 @@
       <file leaf-file-name="FetchWeatherTask.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/uk/co/jordanrobinson/sunshine/FetchWeatherTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5092251" vertical-offset="4172" max-vertical-offset="6560">
-              <caret line="319" column="38" selection-start-line="319" selection-start-column="38" selection-end-line="319" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.8339483" vertical-offset="3980" max-vertical-offset="6560">
+              <caret line="318" column="34" selection-start-line="318" selection-start-column="34" selection-end-line="318" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -1978,8 +1978,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/uk/co/jordanrobinson/sunshine/FetchWeatherTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5092251" vertical-offset="4172" max-vertical-offset="6560">
-          <caret line="319" column="38" selection-start-line="319" selection-start-column="38" selection-end-line="319" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.8339483" vertical-offset="3980" max-vertical-offset="6560">
+          <caret line="318" column="34" selection-start-line="318" selection-start-column="34" selection-end-line="318" selection-end-column="34" />
           <folding />
         </state>
       </provider>
