@@ -316,7 +316,7 @@ public class FetchWeatherTask extends AsyncTask<String, Void, String[]> {
             Cursor cur = mContext.getContentResolver().query(weatherForLocationUri,
                     null, null, null, sortOrder);
 
-            cVVector = new Vector<ContentValues>(cur.getCount());
+            cVVector = new Vector<>(cur.getCount());
             if ( cur.moveToFirst() ) {
                 do {
                     ContentValues cv = new ContentValues();
