@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="uk.co.jordanrobinson.sunshine" >
+    package="com.example.android.sunshine.app" >
 
+    <!-- This permission is necessary in order for Sunshine to perform network access. -->
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
@@ -24,7 +25,7 @@
             android:parentActivityName=".MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="uk.co.jordanrobinson.sunshine.MainActivity" />
+                android:value="com.example.android.sunshine.app.MainActivity" />
         </activity>
         <activity
             android:name=".SettingsActivity"
@@ -32,10 +33,10 @@
             android:parentActivityName=".MainActivity" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="uk.co.jordanrobinson.sunshine.MainActivity" />
+                android:value="com.example.android.sunshine.app.MainActivity" />
         </activity>
         <provider
-            android:authorities="uk.co.jordanrobinson.sunshine"
+            android:authorities="com.example.android.sunshine.app"
             android:name=".data.WeatherProvider" />
     </application>
 
